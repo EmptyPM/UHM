@@ -22,7 +22,7 @@ if(isset($_POST['click'])){
     
     if( $retval == true )
     {
-        $s_msg = "Your email has been sent. We will contact you as soon as possible";
+        //$s_msg = "Your email has been sent. We will contact you as soon as possible";
     }
     else
     {
@@ -312,7 +312,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
       <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Email" required name="email"></p>
       <p><textarea class="w3-input w3-padding-16 w3-border"  placeholder="Message" required name="msg"></textarea> </p>
       <p><button class="w3-button w3-black w3-padding-large" type="submit" name="click">SEND MESSAGE</button></p>
-	<p><?php if(isset($e_msg)){echo $e_msg;} else{echo $s_msg;}?></p>
+	<p><?php if(isset($e_msg)){echo $e_msg;} else{echo "Your email has been sent. We will contact you as soon as possible";}?></p>
     </form>
   </div>
 
