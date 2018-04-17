@@ -44,7 +44,7 @@ h1,h2,h3,h4,h5,h6 {
 </header>
 <!-- Image Header -->
 <div class="w3-display-container w3-animate-opacity">
-  <img src="image/gallery/GalleryCover01.jpg" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
+  <img src="image/gallery/GalleryCover04.jpg" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
   
 </div>
 
@@ -54,7 +54,7 @@ h1,h2,h3,h4,h5,h6 {
   <!-- About Section -->
   <div class="w3-row w3-padding-64" id="about">
     <div class="w3-col m6 w3-padding-large w3-hide-small">
-     <img src="image/gallery/Ella-train-01.jpg" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
+     <img src="image/gallery/index-gallery/Ella-train-01.jpg" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
     </div>
 
     <h1 class="w3-center" >Comment Your Ideas Below</h1><br>
@@ -73,12 +73,22 @@ h1,h2,h3,h4,h5,h6 {
 </div>
 
 <!-- Footer -->
-<footer class="w3-padding-32 w3-black w3-center w3-margin-top style="max-width:1500px;">
+<footer class="w3-padding-32 w3-dark-grey w3-center w3-margin-top style="max-width:1500px;">
 
     <div class="w3-row-padding">
       <div class="w3-third">
         <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fvisitsrilankatoursandtravels%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=799179070232349" width="300" height="50" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> 
         </div>
+        <div class="w3-third">
+          <a href="https://www.booking.com/index.html?aid=343336&label=operasoft-sdO15-343336&utm_source=Opera&utm_medium=web&utm_campaign=sdO15">
+  <img src="image/ads/booking-com.png"  style="width:35%;height:35%;">
+</a>
+        </div>
+          <div class="w3-third">
+            <a href="https://www.tripadvisor.com">
+  <img src="image/ads/tripad.png"  style="width:30%;height:30%;background-color: white">
+</a>
+          </div>
         </div>   
      
   </footer>

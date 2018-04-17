@@ -185,8 +185,8 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
                          </div>
                          <div class="w3-half w3-margin-bottom">
                            <div class="w3-display-container">
-                             <img src="image/gallery/index-gallery/animal-06.jpg" alt="animal-06" style="width:100%">
-                             <span class="w3-display-bottomleft w3-padding"></span>
+                             <img src="image/gallery/index-gallery/polonnaruwa 10.jpg" alt="polonnaruwa 10" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding">Polonnaruwa</span>
                            </div>
                          </div>
                        </div>
@@ -209,8 +209,8 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
                        <div class="w3-row-padding" style="margin:0 -16px">
                          <div class="w3-half w3-margin-bottom">
                            <div class="w3-display-container">
-                             <img src="image/gallery/index-gallery/Ella.jpg" alt="Ella" style="width:100%">
-                             <span class="w3-display-bottomleft w3-padding">Ella</span>
+                             <img src="image/gallery/index-gallery/polonnaruwa22.jpg" alt="polonnaruwa22" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding">Polonnaruwa</span>
                            </div>
                          </div>
                          <div class="w3-half w3-margin-bottom">
@@ -238,7 +238,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
                     </div>
                     <div class="w3-half w3-margin-bottom">
                       <div class="w3-display-container">
-                        <img src="image/gallery/index-gallery/Anuradhapura.jpg" alt="Anuradhapura" style="width:100%">
+                        <img src="image/gallery/index-gallery/Ruwanweliseya.jpg" alt="Ruwanweliseya" style="width:100%">
                         <span class="w3-display-bottomleft w3-padding">Anuradhapura</span>
                       </div>
                     </div>
@@ -246,7 +246,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
                   <div class="w3-row-padding" style="margin:0 -16px">
                     <div class="w3-half w3-margin-bottom">
                       <div class="w3-display-container">
-                        <img src="image/gallery/index-gallery/Polonnaruwa.jpg" alt="Polonnaruwa" style="width:100%">
+                        <img src="image/gallery/index-gallery/polonnaruwa-1.jpg" alt="polonnaruwa-1" style="width:100%">
                         <span class="w3-display-bottomleft w3-padding">Polonnaruwa</span>
                       </div>
                     </div>
@@ -268,7 +268,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
                          </div>
                          <div class="w3-half w3-margin-bottom">
                            <div class="w3-display-container">
-                             <img src="image/gallery/index-gallery/Anuradhapura.jpg" alt="Anuradhapura" style="width:100%">
+                             <img src="image/gallery/index-gallery/anuradhapura12.jpg" alt="anuradhapura12" style="width:100%">
                              <span class="w3-display-bottomleft w3-padding">Anuradhapura</span>
                            </div>
                          </div>
@@ -276,8 +276,8 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
                        <div class="w3-row-padding" style="margin:0 -16px">
                          <div class="w3-half w3-margin-bottom">
                            <div class="w3-display-container">
-                             <img src="image/gallery/index-gallery/Polonnaruwa.jpg" alt="Polonnaruwa" style="width:100%">
-                             <span class="w3-display-bottomleft w3-padding">Polonnaruwa</span>
+                             <img src="image/gallery/index-gallery/Yala1111.jpg" alt="Yala1111" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding">Yala</span>
                            </div>
                          </div>
                          <div class="w3-half w3-margin-bottom">
@@ -299,28 +299,28 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
                   <div class="w3-row-padding" style="margin:0 -16px">
                     <div class="w3-half w3-margin-bottom">
                       <div class="w3-display-container">
-                        <img src="image/gallery/index-gallery/Ella.jpg" alt="Ella" style="width:100%">
-                        <span class="w3-display-bottomleft w3-padding">Ella</span>
+                        <img src="image/gallery/index-gallery/Lake_at_Yudanganawa_.jpg" alt="Lake_at_Yudanganawa_" style="width:100%">
+                        <span class="w3-display-bottomleft w3-padding"></span>
                       </div>
                     </div>
                     <div class="w3-half w3-margin-bottom">
                       <div class="w3-display-container">
-                        <img src="image/gallery/index-gallery/Anuradhapura.jpg" alt="Anuradhapura" style="width:100%">
-                        <span class="w3-display-bottomleft w3-padding">Anuradhapura</span>
+                        <img src="image/gallery/index-gallery/10.jpg" alt="10" style="width:100%">
+                        <span class="w3-display-bottomleft w3-padding"></span>
                       </div>
                     </div>
                   </div>
                   <div class="w3-row-padding" style="margin:0 -16px">
                     <div class="w3-half w3-margin-bottom">
                       <div class="w3-display-container">
-                        <img src="image/gallery/index-gallery/Polonnaruwa.jpg" alt="Polonnaruwa" style="width:100%">
-                        <span class="w3-display-bottomleft w3-padding">Polonnaruwa</span>
+                        <img src="image/gallery/index-gallery/yala11.jpg" alt="yala11" style="width:100%">
+                        <span class="w3-display-bottomleft w3-padding"></span>
                       </div>
                     </div>
                     <div class="w3-half w3-margin-bottom">
                       <div class="w3-display-container">
-                        <img src="image/gallery/index-gallery/Mirissa.jpg" alt="Mirissa" style="width:100%">
-                        <span class="w3-display-bottomleft w3-padding">Mirissa </span>
+                        <img src="image/gallery/index-gallery/yala-national-park.jpg" alt="yala-national-park" style="width:100%">
+                        <span class="w3-display-bottomleft w3-padding">Yala</span>
                       </div>
                     </div>
                   </div>
@@ -329,28 +329,28 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
                        <div class="w3-row-padding" style="margin:0 -16px">
                          <div class="w3-half w3-margin-bottom">
                            <div class="w3-display-container">
-                             <img src="image/gallery/index-gallery/Ella.jpg" alt="Ella" style="width:100%">
-                             <span class="w3-display-bottomleft w3-padding">Ella</span>
+                             <img src="image/gallery/index-gallery/tea01.jpg" alt="tea01" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding"></span>
                            </div>
                          </div>
                          <div class="w3-half w3-margin-bottom">
                            <div class="w3-display-container">
-                             <img src="image/gallery/index-gallery/Anuradhapura.jpg" alt="Anuradhapura" style="width:100%">
-                             <span class="w3-display-bottomleft w3-padding">Anuradhapura</span>
+                             <img src="image/gallery/index-gallery/sri-lanka-dondra.jpg" alt="sri-lanka-dondra" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding">Dondra</span>
                            </div>
                          </div>
                        </div>
                        <div class="w3-row-padding" style="margin:0 -16px">
                          <div class="w3-half w3-margin-bottom">
                            <div class="w3-display-container">
-                             <img src="image/gallery/index-gallery/Polonnaruwa.jpg" alt="Polonnaruwa" style="width:100%">
-                             <span class="w3-display-bottomleft w3-padding">Polonnaruwa</span>
+                             <img src="image/gallery/index-gallery/city-of-Anuradhapura-.jpg" alt="city-of-Anuradhapura-" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding">Anuradhapura</span>
                            </div>
                          </div>
                          <div class="w3-half w3-margin-bottom">
                            <div class="w3-display-container">
-                             <img src="image/gallery/index-gallery/Mirissa.jpg" alt="Mirissa" style="width:100%">
-                             <span class="w3-display-bottomleft w3-padding">Mirissa </span>
+                             <img src="image/gallery/index-gallery/yalaent.jpg" alt="yalaent" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding">Yala</span>
                            </div>
                          </div>
                        </div>
@@ -361,13 +361,13 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
                   <div class="w3-row-padding" style="margin:0 -16px">
                     <div class="w3-half w3-margin-bottom">
                       <div class="w3-display-container">
-                        <img src="image/gallery/index-gallery/Ella.jpg" alt="Ella" style="width:100%">
-                        <span class="w3-display-bottomleft w3-padding">Ella</span>
+                        <img src="image/gallery/index-gallery/Hummanaya.jpg" alt="Hummanaya" style="width:100%">
+                        <span class="w3-display-bottomleft w3-padding">Hummanaya</span>
                       </div>
                     </div>
                     <div class="w3-half w3-margin-bottom">
                       <div class="w3-display-container">
-                        <img src="image/gallery/index-gallery/Anuradhapura.jpg" alt="Anuradhapura" style="width:100%">
+                        <img src="image/gallery/index-gallery/Anuradhapura-view.jpg" alt="Anuradhapura-view" style="width:100%">
                         <span class="w3-display-bottomleft w3-padding">Anuradhapura</span>
                       </div>
                     </div>
@@ -378,14 +378,14 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
                        <div class="w3-row-padding" style="margin:0 -16px">
                          <div class="w3-half w3-margin-bottom">
                            <div class="w3-display-container">
-                             <img src="image/gallery/index-gallery/Ella.jpg" alt="Ella" style="width:100%">
-                             <span class="w3-display-bottomleft w3-padding">Ella</span>
+                             <img src="image/gallery/index-gallery/17.jpg" alt="17" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding"></span>
                            </div>
                          </div>
                          <div class="w3-half w3-margin-bottom">
                            <div class="w3-display-container">
-                             <img src="image/gallery/index-gallery/Anuradhapura.jpg" alt="Anuradhapura" style="width:100%">
-                             <span class="w3-display-bottomleft w3-padding">Anuradhapura</span>
+                             <img src="image/gallery/index-gallery/Colombo0101.jpg" alt="Colombo0101" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding">Colombo</span>
                            </div>
                          </div>
                        </div>
@@ -394,28 +394,28 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
                        <div class="w3-row-padding" style="margin:0 -16px">
                          <div class="w3-half w3-margin-bottom">
                            <div class="w3-display-container">
-                             <img src="image/gallery/index-gallery/Polonnaruwa.jpg" alt="Polonnaruwa" style="width:100%">
-                             <span class="w3-display-bottomleft w3-padding">Polonnaruwa</span>
+                             <img src="image/gallery/index-gallery/vehical-car-02.jpg" alt="vehical-car-02" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding"></span>
                            </div>
                          </div>
                          <div class="w3-half w3-margin-bottom">
                            <div class="w3-display-container">
-                             <img src="image/gallery/index-gallery/Polonnaruwa.jpg" alt="Polonnaruwa" style="width:100%">
-                             <span class="w3-display-bottomleft w3-padding">Polonnaruwa</span>
+                             <img src="image/gallery/index-gallery/Horton_Plains_7.jpg" alt="Horton_Plains_7" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding">Horton Plains</span>
                            </div>
                          </div>
                        </div>
                        <div class="w3-row-padding" style="margin:0 -16px">
                          <div class="w3-half w3-margin-bottom">
                            <div class="w3-display-container">
-                             <img src="image/gallery/index-gallery/Ella.jpg" alt="Ella" style="width:100%">
-                             <span class="w3-display-bottomleft w3-padding">Ella</span>
+                             <img src="image/gallery/index-gallery/Pasikuda-Beach-Sri-Lanka.jpg" alt="Pasikuda-Beach-Sri-Lanka" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding">Pasikuda Beach</span>
                            </div>
                          </div>
                          <div class="w3-half w3-margin-bottom">
                            <div class="w3-display-container">
-                             <img src="image/gallery/index-gallery/Anuradhapura.jpg" alt="Anuradhapura" style="width:100%">
-                             <span class="w3-display-bottomleft w3-padding">Anuradhapura</span>
+                             <img src="image/gallery/index-gallery/gona.jpg" alt="gona" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding"></span>
                            </div>
                          </div>
                        </div>
@@ -431,28 +431,28 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
                   <div class="w3-row-padding" style="margin:0 -16px">
                     <div class="w3-half w3-margin-bottom">
                       <div class="w3-display-container">
-                        <img src="image/gallery/index-gallery/Ella.jpg" alt="Ella" style="width:100%">
-                        <span class="w3-display-bottomleft w3-padding">Ella</span>
+                        <img src="image/gallery/index-gallery/14.jpg" alt="14" style="width:100%">
+                        <span class="w3-display-bottomleft w3-padding"></span>
                       </div>
                     </div>
                     <div class="w3-half w3-margin-bottom">
                       <div class="w3-display-container">
-                        <img src="image/gallery/index-gallery/Anuradhapura.jpg" alt="Anuradhapura" style="width:100%">
-                        <span class="w3-display-bottomleft w3-padding">Anuradhapura</span>
+                        <img src="image/gallery/index-gallery/01.jpg" alt="01" style="width:100%">
+                        <span class="w3-display-bottomleft w3-padding"></span>
                       </div>
                     </div>
                   </div>
                   <div class="w3-row-padding" style="margin:0 -16px">
                     <div class="w3-half w3-margin-bottom">
                       <div class="w3-display-container">
-                        <img src="image/gallery/index-gallery/Polonnaruwa.jpg" alt="Polonnaruwa" style="width:100%">
-                        <span class="w3-display-bottomleft w3-padding">Polonnaruwa</span>
+                        <img src="image/gallery/index-gallery/19.jpg" alt="19" style="width:100%">
+                        <span class="w3-display-bottomleft w3-padding"></span>
                       </div>
                     </div>
                     <div class="w3-half w3-margin-bottom">
                       <div class="w3-display-container">
-                        <img src="image/gallery/index-gallery/Mirissa.jpg" alt="Mirissa" style="width:100%">
-                        <span class="w3-display-bottomleft w3-padding">Mirissa </span>
+                        <img src="image/gallery/index-gallery/21.jpg" alt="21" style="width:100%">
+                        <span class="w3-display-bottomleft w3-padding"></span>
                       </div>
                     </div>
                   </div>
@@ -461,28 +461,90 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
                        <div class="w3-row-padding" style="margin:0 -16px">
                          <div class="w3-half w3-margin-bottom">
                            <div class="w3-display-container">
-                             <img src="image/gallery/index-gallery/Ella.jpg" alt="Ella" style="width:100%">
-                             <span class="w3-display-bottomleft w3-padding">Ella</span>
+                             <img src="image/gallery/index-gallery/06.jpg" alt="06" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding">Bakers Fall</span>
                            </div>
                          </div>
                          <div class="w3-half w3-margin-bottom">
                            <div class="w3-display-container">
-                             <img src="image/gallery/index-gallery/Anuradhapura.jpg" alt="Anuradhapura" style="width:100%">
-                             <span class="w3-display-bottomleft w3-padding">Anuradhapura</span>
+                             <img src="image/gallery/index-gallery/09.jpg" alt="09" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding"></span>
                            </div>
                          </div>
                        </div>
                        <div class="w3-row-padding" style="margin:0 -16px">
                          <div class="w3-half w3-margin-bottom">
                            <div class="w3-display-container">
-                             <img src="image/gallery/index-gallery/Polonnaruwa.jpg" alt="Polonnaruwa" style="width:100%">
-                             <span class="w3-display-bottomleft w3-padding">Polonnaruwa</span>
+                             <img src="image/gallery/index-gallery/26.jpg" alt="26" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding"></span>
                            </div>
                          </div>
                          <div class="w3-half w3-margin-bottom">
                            <div class="w3-display-container">
-                             <img src="image/gallery/index-gallery/Mirissa.jpg" alt="Mirissa" style="width:100%">
-                             <span class="w3-display-bottomleft w3-padding">Mirissa </span>
+                             <img src="image/gallery/index-gallery/08.jpg" alt="08" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding"></span>
+                           </div>
+                         </div>
+                       </div>
+                     </div>
+             </div>
+             <div class="w3-row-padding" style="margin:0 -16px">
+                <div class="w3-half">
+                  <div class="w3-row-padding" style="margin:0 -16px">
+                    <div class="w3-half w3-margin-bottom">
+                      <div class="w3-display-container">
+                        <img src="image/gallery/index-gallery/Hotanpl-01.jpg" alt="Hotanpl-01" style="width:100%">
+                        <span class="w3-display-bottomleft w3-padding"></span>
+                      </div>
+                    </div>
+                    <div class="w3-half w3-margin-bottom">
+                      <div class="w3-display-container">
+                        <img src="image/gallery/index-gallery/world-s-end.jpg" alt="world-s-end" style="width:100%">
+                        <span class="w3-display-bottomleft w3-padding">Worlds end</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w3-row-padding" style="margin:0 -16px">
+                    <div class="w3-half w3-margin-bottom">
+                      <div class="w3-display-container">
+                        <img src="image/gallery/index-gallery/Meemure.jpg" alt="Meemure" style="width:100%">
+                        <span class="w3-display-bottomleft w3-padding">Meemure</span>
+                      </div>
+                    </div>
+                    <div class="w3-half w3-margin-bottom">
+                      <div class="w3-display-container">
+                        <img src="image/gallery/index-gallery/riverston-peak-2.jpg" alt="riverston-peak-2" style="width:100%">
+                        <span class="w3-display-bottomleft w3-padding">Riverston Peak</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                      <div class="w3-half">
+                       <div class="w3-row-padding" style="margin:0 -16px">
+                         <div class="w3-half w3-margin-bottom">
+                           <div class="w3-display-container">
+                             <img src="image/gallery/index-gallery/BekersFall.jpg" alt="BekersFall" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding">Bakers Fall</span>
+                           </div>
+                         </div>
+                         <div class="w3-half w3-margin-bottom">
+                           <div class="w3-display-container">
+                             <img src="image/gallery/index-gallery/vehical-car-03.jpg" alt="vehical-car-03" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding"></span>
+                           </div>
+                         </div>
+                       </div>
+                       <div class="w3-row-padding" style="margin:0 -16px">
+                         <div class="w3-half w3-margin-bottom">
+                           <div class="w3-display-container">
+                             <img src="image/gallery/index-gallery/Sigirya-01.jpg" alt="Sigirya-01" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding">Pidurangala</span>
+                           </div>
+                         </div>
+                         <div class="w3-half w3-margin-bottom">
+                           <div class="w3-display-container">
+                             <img src="image/gallery/index-gallery/pasi1.jpg" alt="pasi1" style="width:100%">
+                             <span class="w3-display-bottomleft w3-padding">Pasikuda </span>
                            </div>
                          </div>
                        </div>
