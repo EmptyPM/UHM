@@ -88,21 +88,21 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 
   <!-- Automatic Slideshow Images -->
   <div class="mySlides w3-display-container w3-center">
-    <img src="image/wall/p01.jpg" style="width:100%">
+    <img src="image/wall/0kandy.jpg" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
-      <h3>Los Angeles</h3>
+      <h3>Kandy</h3>
       <p><b>We had the best time playing at Venice Beach!</b></p>   
     </div>
   </div>
   <div class="mySlides w3-display-container w3-center">
-    <img src="image/wall/p02.jpg" style="width:100%">
+    <img src="image/wall/yala.jpg" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
-      <h3>New York</h3>
+      <h3>Yala</h3>
       <p><b>The atmosphere in New York is lorem ipsum.</b></p>    
     </div>
   </div>
   <div class="mySlides w3-display-container w3-center">
-    <img src="image/wall/p03.jpg" style="width:100%">
+    <img src="image/wall/003.jpg" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>Chicago</h3>
       <p><b>Thank you, Chicago - A night we won't forget.</b></p>    
@@ -115,18 +115,19 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 
   <div class="w3-container w3-margin-top" id="packages">
     
-    <p>Make yourself at home is our slogan. We offer the best beds in the industry. Sleep well and rest well.</p>
+    <h6>Sri Lanka is a land like no other for breathtaking sight seining, ancient monuments, sculptures, caving, beautiful coastlines, great natural diversity and many more, which, no doubt makes it a perfect tourist destination. In case you intend to plan a memorable tour of this magical island, there is the place where the experts are there to guide you. Your tours shall depend on the time at your disposal and your interests.</h6>
     <br>
-  </div>
+  
   
  <h3>PACKAGES</h3>
-
+   <h6> While we offer pre planned packages, we also design Sri Lanka tour packages according to your requirements. Let us know what you'd like to do, see, and where you'd like to go and We'll plan your holiday in Sri Lanka!.</h6>
+   </div>
   <div class="w3-row-padding w3-padding-16">
     <div class="w3-third w3-margin-bottom">
       <img src="/w3images/room_single.jpg" alt="Norway" style="width:100%">
       <div class="w3-container w3-white">
         <h3>Single Room</h3>
-        <h6 class="w3-opacity">From $99</h6>
+        <h6 class="w3-opacity">From $9</h6>
         <p>Single bed</p>
         <p>15m<sup>2</sup></p>
         <p class="w3-large"><i class="fa fa-bath"></i> <i class="fa fa-phone"></i> <i class="fa fa-wifi"></i></p>
@@ -209,21 +210,27 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
       <br>
 
       <h3>About</h3>
-      <h6></h6>
+      <h6><h6>Create your own holiday with good Tour Operators in Sri Lanka. We’ll help you to plan your holiday in 
+    sri lanka and we will arrange all your travel arrangements in Sri Lanka at an affordable price.<br>
+From the very moment of your arrival at the Airport of the Island and till your departure, comfortable transport 
+and accommodation can be provided.<br>
+You will be provided with a reliable driver and air conditioned vehicle for comfortable transport throughout the 
+ tour. Your safety, your comforts and your enjoyment thorough out the tour is guaranteed. <br>We provide,
+<ul><li>Your Own Vehicle</li><li>Your Own Tourist Driver (Licensed)</li><li>Flexibility to cater for your individual needs</li><li>Your accommodation which will suite to your budget/interest.</li></h6>
     <p>We accept: <i class="fa fa-credit-card w3-large"></i> <i class="fa fa-cc-mastercard w3-large"></i> <i class="fa fa-cc-amex w3-large"></i> <i class="fa fa-cc-cc-visa w3-large"></i><i class="fa fa-cc-paypal w3-large"></i></p>
     </div>
     <div class="w3-col l8 m5">
-      <div id="googleMap" style="width:100%;height:400px;" class="w3-grayscale">
-      	
+      <div class="w3-content" style="max-width:900px;margin-top:70px;margin-bottom:70px">
+      <img src="image/wall/rsz_about.jpg" style="width:100%">
 
       </div>
     </div>
   </div>
   
   <div class="w3-row w3-large w3-center" style="margin:32px 0">
-    <div class="w3-third"><i class="fa fa-map-marker w3-text-red"></i> 423 Some adr, Chicago, US</div>
-    <div class="w3-third"><i class="fa fa-phone w3-text-red"></i> Phone: +00 151515</div>
-    <div class="w3-third"><i class="fa fa-envelope w3-text-red"></i> Email: mail@mail.com</div>
+    <div class="w3-third"><i class="fa fa-map-marker w3-text-red"></i> Kandy,Sri Lanka</div>
+    <div class="w3-third"><i class="fa fa-phone w3-text-red"></i> Phone: +094772363736</div>
+    <div class="w3-third"><i class="fa fa-envelope w3-text-red"></i> Email: mohananura@yahoo.com</div>
   </div>
   
 
@@ -304,9 +311,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
   <div class="w3-container" id="contact">
     <h2>Contact</h2>
     <p>If you have any questions, do not hesitate to ask them.</p>
-    <i class="fa fa-map-marker w3-text-red" style="width:30px"></i> Chicago, US<br>
-    <i class="fa fa-phone w3-text-red" style="width:30px"></i>  +00 151515<br>
-    <i class="fa fa-envelope w3-text-red" style="width:30px"> </i>  mail@mail.com<br><br>
+    <i class="fa fa-map-marker w3-text-red" style="width:30px"></i> Kandy,Sri Lanka<br>
+    <i class="fa fa-phone w3-text-red" style="width:30px"></i>  +094772363736<br>
+    <i class="fa fa-envelope w3-text-red" style="width:30px"> </i>  mohananura@yahoo.com<br><br>
     <form action="./web.php" method="post">
       <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Name" required name="name"></p>
       <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Email" required name="email"></p>
@@ -321,29 +328,31 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 
 <!-- Footer -->
 <footer class="w3-padding-32 w3-black w3-center w3-margin-top">
-
     <div class="w3-row-padding">
       <div class="w3-third">
-        <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fvisitsrilankatoursandtravels%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=799179070232349" width="300" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>    
+        <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fvisitsrilankatoursandtravels%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=799179070232349" width="300" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true">
+        </iframe>    
       </div>
     
       <div class="w3-third">
-        
         <ul class="w3-ul">
           <li class="w3-padding-16 w3-hover-black">
-            <a href="https://www.booking.com/index.html?aid=343336&label=operasoft-sdO15-343336&utm_source=Opera&utm_medium=web&utm_campaign=sdO15">
-  <img src="image/ads/booking-com.png"  style="width:35%;height:35%;">
-</a>
+              <a href="https://www.booking.com/index.html?aid=343336&label=operasoft-sdO15-343336&utm_source=Opera&utm_medium=web&utm_campaign=sdO15">
+              <img src="image/ads/booking-com.png"  style="width:35%;height:35%;">
+              </a>
           </li>
           <li class="w3-padding-16 w3-hover-black">
-            <a href="https://www.tripadvisor.com">
-  <img src="image/ads/tripad.png"  style="width:30%;height:30%;background-color: white">
-</a>
+            © 2018 Visit Sri Lanka Tours and Travels. Designed By UHM.(PVT)
           </li> 
         </ul>
       </div>
 
       <div class="w3-third">
+        <li class="w3-padding-16 w3-hover-black">
+          <a href="https://www.tripadvisor.com">
+            <img src="image/ads/tripad.png"  style="width:30%;height:30%;background-color: white">
+          </a>
+        </li>
         
       </div>
     </div>
