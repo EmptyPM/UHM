@@ -131,7 +131,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
         <p>Single bed</p>
         <p>15m<sup>2</sup></p>
         <p class="w3-large"><i class="fa fa-bath"></i> <i class="fa fa-phone"></i> <i class="fa fa-wifi"></i></p>
-        <button class="w3-button w3-block w3-black w3-margin-bottom">Choose Room</button>
+        <a href="packages.html" class="w3-button w3-block w3-black w3-margin-bottom" role="button" >Pre plane</a></p>
       </div>
     </div>
     <div class="w3-third w3-margin-bottom">
@@ -142,7 +142,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
         <p>Queen-size bed</p>
         <p>25m<sup>2</sup></p>
         <p class="w3-large"><i class="fa fa-bath"></i> <i class="fa fa-phone"></i> <i class="fa fa-wifi"></i> <i class="fa fa-tv"></i></p>
-        <button class="w3-button w3-block w3-black w3-margin-bottom">Choose Room</button>
+        <a href="packages.html" class="w3-button w3-block w3-black w3-margin-bottom" role="button" >Excrutions</a></p>
       </div>
     </div>
     <div class="w3-third w3-margin-bottom">
@@ -153,7 +153,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
         <p>King-size bed</p>
         <p>40m<sup>2</sup></p>
         <p class="w3-large"><i class="fa fa-bath"></i> <i class="fa fa-phone"></i> <i class="fa fa-wifi"></i> <i class="fa fa-tv"></i> <i class="fa fa-glass"></i> <i class="fa fa-cutlery"></i></p>
-        <button class="w3-button w3-block w3-black w3-margin-bottom">Choose Room</button>
+        <a href="#contact" class="w3-button w3-block w3-black w3-margin-bottom" role="button" >Customizied</a></p>
       </div>
     </div>
   </div>
@@ -329,31 +329,46 @@ You will be provided with a reliable driver and air conditioned vehicle for comf
 <!-- Footer -->
 <footer class="w3-padding-32 w3-black w3-center w3-margin-top">
     <div class="w3-row-padding">
-      <div class="w3-third">
+      <div class="w3-col m3">
         <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fvisitsrilankatoursandtravels%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=799179070232349" width="300" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true">
         </iframe>    
       </div>
     
-      <div class="w3-third">
-        <ul class="w3-ul">
-          <li class="w3-padding-16 w3-hover-black">
+      <div class="w3-col m3">
+        <article class="footbox last">
+            <h5><U>Useful Links</U></h5>
               <a href="https://www.booking.com/index.html?aid=343336&label=operasoft-sdO15-343336&utm_source=Opera&utm_medium=web&utm_campaign=sdO15">
               <img src="image/ads/booking-com.png"  style="width:35%;height:35%;">
               </a>
-          </li>
-          <li class="w3-padding-16 w3-hover-black">
-            © 2018 Visit Sri Lanka Tours and Travels. Designed By UHM.(PVT)
-          </li> 
-        </ul>
+              <br>
+              <a href="https://www.tripadvisor.com">
+                <img src="image/ads/tripad.png"  style="width:30%;height:30%;background-color: white">
+              </a>
+              
+          </article>
       </div>
 
-      <div class="w3-third">
-        <li class="w3-padding-16 w3-hover-black">
-          <a href="https://www.tripadvisor.com">
-            <img src="image/ads/tripad.png"  style="width:30%;height:30%;background-color: white">
-          </a>
-        </li>
+      <div class="w3-col m3">
+        <article class="footbox last 02">
+    <h5><U>Site Map</U></h5>
+    <a href="">Home</a> <br />
+    <a href="">Packages</a> <br />
+    <a href="">Gallery</a> <br />
+    <a href="">About</a> <br />
+    
+        </article>
         
+      </div>
+      <div class="w3-col m3">
+        
+        
+              <a href="http://www.eta.gov.lk/slvisa/">
+                <img src="image/ads/visa-process.jpg"  style="width:30%;height:30%;background-color: white">
+              </a>
+              <br>
+              <br>
+
+              <p>© 2018 Visit Sri Lanka Tours and Travels. Designed By UHM.(PVT)</p>
       </div>
     </div>
  
