@@ -247,21 +247,21 @@ You will be provided with a reliable driver and air conditioned vehicle for comf
           <div class="col-lg-4">
             <div class="testimonial-item mx-auto mb-5 mb-lg-0">
               <img class="img-fluid rounded-circle mb-3" src="image/comments/comment1.jpg" alt="">
-              <h5>Kamal Arham</h5>
+              <h5><a href="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fkamal.arham%2Fposts%2F10155507103874107%3A0&width=500">Kamal Arham</a></h5>
               <p class="font-weight-light mb-0">"One of the most honest guides you will encounter during your travel."</p>
             </div>
           </div>
           <div class="col-lg-4">
             <div class="testimonial-item mx-auto mb-5 mb-lg-0">
               <img class="img-fluid rounded-circle mb-3" src="image/comments/comment2.jpg" alt="">
-              <h5>Sowmyashree Bs</h5>
+              <h5><a href="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsowmyashree.bs%2Fposts%2F10154224123745060%3A0&width=500">Sowmyashree Bs</a></h5>
               <p class="font-weight-light mb-0">"My children think of him everyday and my son says that Anura was his best part of Srilanka."</p>
             </div>
           </div>
           <div class="col-lg-4">
             <div class="testimonial-item mx-auto mb-5 mb-lg-0">
               <img class="img-fluid rounded-circle mb-3" src="image/comments/comment3.jpg" alt="">
-              <h5>Yvonne Carne-Ross</h5>
+              <h5><a href="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fyvonne.carneross%2Fposts%2F10155550457502489%3A0&width=500">Yvonne Carne-Ross</a></h5>
               <p class="font-weight-light mb-0">"You really won’t find a more helpful, honest , reliable and careful driver and guide to give you the very best of Sri Lanka. He will locate good accommodation and at excellent prices. "</p>
             </div>
           </div>
