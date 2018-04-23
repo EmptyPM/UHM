@@ -127,33 +127,34 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
       
       <div class="w3-container w3-white">
         <h3>Pre Planned Packages</h3>
-        <h6 class="w3-opacity">From $9</h6>
-        <p>Single bed</p>
-        <p>15m<sup>2</sup></p>
-        <p class="w3-large"><i class="fa fa-bath"></i> <i class="fa fa-phone"></i> <i class="fa fa-wifi"></i></p>
+        <h6 class="w3-opacity">From $50 per day</h6>
+        <p>Accomodation and meals will be arranged according to your requirements</p>
+        <p>Safty,Comforts and Enjoyment</p>
+		<p>Please click below to find out more.</p>
+        
         <a href="packages.html" class="w3-button w3-block w3-black w3-margin-bottom" role="button" >Pre planned packages</a></p>
       </div>
     </div>
     <div class="w3-third w3-margin-bottom">
       
       <div class="w3-container w3-white">
-        <h3>Double Room</h3>
-        <h6 class="w3-opacity">From $149</h6>
-        <p>Queen-size bed</p>
-        <p>25m<sup>2</sup></p>
-        <p class="w3-large"><i class="fa fa-bath"></i> <i class="fa fa-phone"></i> <i class="fa fa-wifi"></i> <i class="fa fa-tv"></i></p>
-        <a href="packages.html" class="w3-button w3-block w3-black w3-margin-bottom" role="button" >Excrutions</a></p>
+        <h3>Create your own tour</h3>
+        <h6 class="w3-opacity">From $50 per day</h6>
+        <p>We will help you to create your own tour according to your time and budget.</p>
+        <p>Please inform us of the duration of the tour, your budget and the places you want to visit and I will send you my proposals of tour plan trough email</p>
+        
+        <a href="#contact" class="w3-button w3-block w3-black w3-margin-bottom" role="button" >Contact us</a></p>
       </div>
     </div>
     <div class="w3-third w3-margin-bottom">
       
       <div class="w3-container w3-white">
-        <h3>Deluxe Room</h3>
-        <h6 class="w3-opacity">From $199</h6>
-        <p>King-size bed</p>
-        <p>40m<sup>2</sup></p>
-        <p class="w3-large"><i class="fa fa-bath"></i> <i class="fa fa-phone"></i> <i class="fa fa-wifi"></i> <i class="fa fa-tv"></i> <i class="fa fa-glass"></i> <i class="fa fa-cutlery"></i></p>
-        <a href="#contact" class="w3-button w3-block w3-black w3-margin-bottom" role="button" >Customizied</a></p>
+        <h3>Excrusions</h3>
+        <h6 class="w3-opacity">Excrusions from Kandy</h6><br><br>
+        <p>Excrusions from kandy to the destination you want</p><br>
+        <p>Click below to find out destinations</p>
+        
+        <a href="packages.html" class="w3-button w3-block w3-black w3-margin-bottom" role="button" >Excrusions</a></p>
       </div>
     </div>
   </div>
