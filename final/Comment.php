@@ -28,7 +28,7 @@ h1,h2,h3,h4,h5,h6 {
      
     <a href="web.php" class="w3-bar-item w3-button w3-padding-large">HOME</a>
     <a href="packages.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small">PACKAGES</a>
-    <a href="gallery.php" class="w3-bar-item w3-button w3-padding-large w3-hide-small">PHOTOS</a>
+    
     
     
     
@@ -37,8 +37,7 @@ h1,h2,h3,h4,h5,h6 {
 
 <!-- Navbar on small screens -->
 <div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
-  <a href="#packages" class="w3-bar-item w3-button w3-padding-large">PACKAGES</a>
-  <a href="gallery.php" class="w3-bar-item w3-button w3-padding-large">PHOTOS</a>
+  
   
 </div>
 </header>
