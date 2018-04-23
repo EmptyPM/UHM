@@ -124,7 +124,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
    </div>
   <div class="w3-row-padding w3-padding-16">
     <div class="w3-third w3-margin-bottom">
-      <img src="/w3images/room_single.jpg" alt="Norway" style="width:100%">
+      
       <div class="w3-container w3-white">
         <h3>Single Room</h3>
         <h6 class="w3-opacity">From $9</h6>
@@ -135,7 +135,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
       </div>
     </div>
     <div class="w3-third w3-margin-bottom">
-      <img src="/w3images/room_double.jpg" alt="Norway" style="width:100%">
+      
       <div class="w3-container w3-white">
         <h3>Double Room</h3>
         <h6 class="w3-opacity">From $149</h6>
@@ -146,7 +146,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
       </div>
     </div>
     <div class="w3-third w3-margin-bottom">
-      <img src="/w3images/room_deluxe.jpg" alt="Norway" style="width:100%">
+      
       <div class="w3-container w3-white">
         <h3>Deluxe Room</h3>
         <h6 class="w3-opacity">From $199</h6>
@@ -210,14 +210,14 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
       <br>
 
       <h3>About</h3>
-      <h6><h6>Create your own holiday with good Tour Operators in Sri Lanka. We’ll help you to plan your holiday in 
+      <p><h5>Create your own holiday with good Tour Operators in Sri Lanka. We’ll help you to plan your holiday in 
     sri lanka and we will arrange all your travel arrangements in Sri Lanka at an affordable price.<br>
 From the very moment of your arrival at the Airport of the Island and till your departure, comfortable transport 
-and accommodation can be provided.<br>
+and accommodation can be provided.<br><br>
 You will be provided with a reliable driver and air conditioned vehicle for comfortable transport throughout the 
  tour. Your safety, your comforts and your enjoyment thorough out the tour is guaranteed. <br>We provide,
-<ul><li>Your Own Vehicle</li><li>Your Own Tourist Driver (Licensed)</li><li>Flexibility to cater for your individual needs</li><li>Your accommodation which will suite to your budget/interest.</li></h6>
-    <p>We accept: <i class="fa fa-credit-card w3-large"></i> <i class="fa fa-cc-mastercard w3-large"></i> <i class="fa fa-cc-amex w3-large"></i> <i class="fa fa-cc-cc-visa w3-large"></i><i class="fa fa-cc-paypal w3-large"></i></p>
+<ul><li>Your Own Vehicle</li><li>Your Own Tourist Driver (Licensed)</li><li>Flexibility to cater for your individual needs</li><li>Your accommodation which will suite to your budget/interest.</li></h5>
+    </p>
     </div>
     <div class="w3-col l8 m5">
       <div class="w3-content" style="max-width:900px;margin-top:70px;margin-bottom:70px">
@@ -229,7 +229,7 @@ You will be provided with a reliable driver and air conditioned vehicle for comf
   
   <div class="w3-row w3-large w3-center" style="margin:32px 0">
     <div class="w3-third"><i class="fa fa-map-marker w3-text-red"></i> Kandy,Sri Lanka</div>
-    <div class="w3-third"><i class="fa fa-phone w3-text-red"></i> Phone: +094772363736</div>
+    <div class="w3-third"><i class="fa fa-phone w3-text-red"></i> Phone: 0094772363736</div>
     <div class="w3-third"><i class="fa fa-envelope w3-text-red"></i> Email: mohananura@yahoo.com</div>
   </div>
   
@@ -312,7 +312,7 @@ You will be provided with a reliable driver and air conditioned vehicle for comf
     <h2>Contact</h2>
     <p>If you have any questions, do not hesitate to ask them.</p>
     <i class="fa fa-map-marker w3-text-red" style="width:30px"></i> Kandy,Sri Lanka<br>
-    <i class="fa fa-phone w3-text-red" style="width:30px"></i>  +094772363736<br>
+    <i class="fa fa-phone w3-text-red" style="width:30px"></i>  0094772363736<br>
     <i class="fa fa-envelope w3-text-red" style="width:30px"> </i>  mohananura@yahoo.com<br><br>
     <form action="./web.php" method="post">
       <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Name" required name="name"></p>
@@ -349,26 +349,14 @@ You will be provided with a reliable driver and air conditioned vehicle for comf
       </div>
 
       <div class="w3-col m3">
-        <article class="footbox last 02">
-    <h5><U>Site Map</U></h5>
-    <a href="">Home</a> <br />
-    <a href="">Packages</a> <br />
-    <a href="">Gallery</a> <br />
-    <a href="">About</a> <br />
-    
-        </article>
         
+        <a href="http://www.eta.gov.lk/slvisa/">
+                <img src="image/ads/visa-process.jpg"  style="width:30%;height:30%;background-color: white">
+              </a>
       </div>
       <div class="w3-col m3">
         
-        
-              <a href="http://www.eta.gov.lk/slvisa/">
-                <img src="image/ads/visa-process.jpg"  style="width:30%;height:30%;background-color: white">
-              </a>
-              <br>
-              <br>
-
-              <p>© 2018 Visit Sri Lanka Tours and Travels. Designed By UHM.(PVT)</p>
+              <p>2018 Visit Sri Lanka Tours and Travels.</p>
       </div>
     </div>
  
