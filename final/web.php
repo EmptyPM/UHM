@@ -247,22 +247,22 @@ You will be provided with a reliable driver and air conditioned vehicle for comf
           <div class="col-lg-4">
             <div class="testimonial-item mx-auto mb-5 mb-lg-0">
               <img class="img-fluid rounded-circle mb-3" src="image/comments/testimonials-1.jpg" alt="">
-              <h5>Margaret E.</h5>
-              <p class="font-weight-light mb-0">"This is fantastic! Thanks so much guys!"</p>
+              <h5>Kamal Arham</h5>
+              <p class="font-weight-light mb-0">"One of the most honest guides you will encounter during your travel."</p>
             </div>
           </div>
           <div class="col-lg-4">
             <div class="testimonial-item mx-auto mb-5 mb-lg-0">
               <img class="img-fluid rounded-circle mb-3" src="image/comments/testimonials-2.jpg" alt="">
-              <h5>Fred S.</h5>
-              <p class="font-weight-light mb-0">"Bootstrap is amazing. I've been using it to create lots of super nice landing ."</p>
+              <h5>Sowmyashree Bs</h5>
+              <p class="font-weight-light mb-0">"My children think of him everyday and my son says that Anura was his best part of Srilanka."</p>
             </div>
           </div>
           <div class="col-lg-4">
             <div class="testimonial-item mx-auto mb-5 mb-lg-0">
               <img class="img-fluid rounded-circle mb-3" src="image/comments/testimonials-3.jpg" alt="">
-              <h5>Sarah W.</h5>
-              <p class="font-weight-light mb-0">"Thanks so much for making these free resources available to us!"</p>
+              <h5>Yvonne Carne-Ross</h5>
+              <p class="font-weight-light mb-0">"You really won’t find a more helpful, honest , reliable and careful driver and guide to give you the very best of Sri Lanka. He will locate good accommodation and at excellent prices. "</p>
             </div>
           </div>
 
