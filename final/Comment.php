@@ -73,7 +73,7 @@ h1,h2,h3,h4,h5,h6 {
 
 <!-- Footer -->
 
-<footer class="w3-padding-32 w3-dark-grey w3-center w3-margin-top" style="max-width:1500px;">
+<footer class="w3-padding-32 w3-black w3-center w3-margin-top" style="max-width:1500px;">
     <div class="w3-row-padding">
       <div class="w3-col m4">
         <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fvisitsrilankatoursandtravels%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=799179070232349" width="300" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true">
@@ -104,7 +104,7 @@ h1,h2,h3,h4,h5,h6 {
               <br>
               <br>
 
-              <p>© 2018 Visit Sri Lanka Tours and Travels. Designed By UHM.(PVT)</p>
+              <p>2018 Visit Sri Lanka Tours and Travels.</p>
       </div>
     </div>
  
