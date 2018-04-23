@@ -61,7 +61,7 @@ h1,h2,h3,h4,h5,h6 {
       <div class="post" >
         <div class="entry" >
        
-        <div class="fb-comments" data-href="https://www.facebook.com/LearnSpace-125734904740793/" data-width="400" data-numposts="5" ></div>
+        <div class="fb-comments" data-href="https://www.facebook.com/pg/visitsrilankatoursandtravels/reviews/" data-width="400" data-numposts="5" ></div>
         </div>
       </div>
   
