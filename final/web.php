@@ -91,21 +91,21 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
     <img src="image/wall/0kandy.jpg" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>Kandy</h3>
-      <p><b>We had the best time playing at Venice Beach!</b></p>   
+      <p><b>Hill capital of Sri Lanka</b></p>   
     </div>
   </div>
   <div class="mySlides w3-display-container w3-center">
     <img src="image/wall/yala.jpg" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>Yala national park</h3>
-      <p><b>The atmosphere in New York is lorem ipsum.</b></p>    
+      <p><b>Enjoy a safari and wildlife watching!</b></p>    
     </div>
   </div>
   <div class="mySlides w3-display-container w3-center">
     <img src="image/wall/passekuda.jpg" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>Pasikuda</h3>
-      <p><b>Thank you, Chicago - A night we won't forget.</b></p>    
+      <p><b>Beautiful Beach</b></p>    
     </div>
   </div>
 </header>
@@ -126,12 +126,12 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
     <div class="w3-third w3-margin-bottom">
       
       <div class="w3-container w3-white">
-        <h3>Single Room</h3>
+        <h3>Pre Planned Packages</h3>
         <h6 class="w3-opacity">From $9</h6>
         <p>Single bed</p>
         <p>15m<sup>2</sup></p>
         <p class="w3-large"><i class="fa fa-bath"></i> <i class="fa fa-phone"></i> <i class="fa fa-wifi"></i></p>
-        <a href="packages.html" class="w3-button w3-block w3-black w3-margin-bottom" role="button" >Pre plane</a></p>
+        <a href="packages.html" class="w3-button w3-block w3-black w3-margin-bottom" role="button" >Pre planned packages</a></p>
       </div>
     </div>
     <div class="w3-third w3-margin-bottom">
