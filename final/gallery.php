@@ -576,7 +576,7 @@ window.onclick = function(event) {
 }
 </script>
 <footer class="w3-center w3-black w3-padding-16">
-  <p>© 2018 Visit Sri Lanka Tours and Travels.</p>
+  <p>2018 Visit Sri Lanka Tours and Travels.</p>
 </footer>
 
 
