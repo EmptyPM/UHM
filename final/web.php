@@ -97,14 +97,14 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
   <div class="mySlides w3-display-container w3-center">
     <img src="image/wall/yala.jpg" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
-      <h3>Yala</h3>
+      <h3>Yala national park</h3>
       <p><b>The atmosphere in New York is lorem ipsum.</b></p>    
     </div>
   </div>
   <div class="mySlides w3-display-container w3-center">
-    <img src="image/wall/003.jpg" style="width:100%">
+    <img src="image/wall/passekuda.jpg" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
-      <h3>Chicago</h3>
+      <h3>Pasikuda</h3>
       <p><b>Thank you, Chicago - A night we won't forget.</b></p>    
     </div>
   </div>
