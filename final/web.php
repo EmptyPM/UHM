@@ -67,6 +67,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
     <a href="#packages" class="w3-bar-item w3-button w3-padding-large w3-hide-small">PACKAGES</a>
     <a href="#photos" class="w3-bar-item w3-button w3-padding-large w3-hide-small">PHOTOS</a>
     <a href="#about" class="w3-bar-item w3-button w3-padding-large w3-hide-small">ABOUT</a>
+    <a href="#comments" class="w3-bar-item w3-button w3-padding-large w3-hide-small">COMMENTS</a>
     <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hide-small">CONTACT</a>
     
     
@@ -78,7 +79,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
   <a href="#packages" class="w3-bar-item w3-button w3-padding-large">PACKAGES</a>
   <a href="#photos" class="w3-bar-item w3-button w3-padding-large">PHOTOS</a>
   <a href="#about" class="w3-bar-item w3-button w3-padding-large">ABOUT</a>
+  <a href="#comments" class="w3-bar-item w3-button w3-padding-large">COMMENTS</a>
   <a href="#contact" class="w3-bar-item w3-button w3-padding-large">CONTACT</a>
+  
   
 </div>
 <!-- Header -->
@@ -235,7 +238,8 @@ You will be provided with a reliable driver and air conditioned vehicle for comf
   </div>
   
 
-  
+  <div class="w3-row-padding" id="comments">
+   
     <section class="testimonials text-center bg-light">
       <div class="container" style="height: 50%">
         <h2 class="mb-5">What people are saying...</h2>
@@ -292,7 +296,6 @@ You will be provided with a reliable driver and air conditioned vehicle for comf
           </div>
           <div class="col-lg-4">
             <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-              
               <a href="Comment.php" class="btn btn-info" role="button">VIEW MORE</a>
               
             </div>
@@ -307,6 +310,8 @@ You will be provided with a reliable driver and air conditioned vehicle for comf
         </div>
       </div>
     </section>
+  
+</div>
 
 
   <div class="w3-container" id="contact">
