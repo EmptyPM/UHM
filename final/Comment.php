@@ -3,7 +3,7 @@
 <title>Comments</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="css/comment.css">
 <style>
 body {font-family: "Times New Roman", Georgia, Serif;}
 h1,h2,h3,h4,h5,h6 {
