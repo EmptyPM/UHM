@@ -27,7 +27,7 @@ h1,h2,h3,h4,h5,h6 {
     <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
      
     <a href="web.php" class="w3-bar-item w3-button w3-padding-large">HOME</a>
-    <a href="packages.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small">PACKAGES</a>
+    
     
     
     
