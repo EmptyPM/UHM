@@ -91,7 +91,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
     <img src="image/wall/0kandy.jpg" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>Kandy</h3>
-      <p><b>We had the best time playing at Venice Beach!</b></p>   
+      <p><b>The Hill capital of Sri Lanka</b></p>   
     </div>
   </div>
   <div class="mySlides w3-display-container w3-center">
@@ -124,7 +124,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
    </div>
   <div class="w3-row-padding w3-padding-16">
     <div class="w3-third w3-margin-bottom">
-      <img src="/w3images/room_single.jpg" alt="Norway" style="width:100%">
+   
       <div class="w3-container w3-white">
         <h3>Single Room</h3>
         <h6 class="w3-opacity">From $9</h6>
@@ -135,7 +135,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
       </div>
     </div>
     <div class="w3-third w3-margin-bottom">
-      <img src="/w3images/room_double.jpg" alt="Norway" style="width:100%">
+   
       <div class="w3-container w3-white">
         <h3>Double Room</h3>
         <h6 class="w3-opacity">From $149</h6>
@@ -146,7 +146,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
       </div>
     </div>
     <div class="w3-third w3-margin-bottom">
-      <img src="/w3images/room_deluxe.jpg" alt="Norway" style="width:100%">
+     
       <div class="w3-container w3-white">
         <h3>Deluxe Room</h3>
         <h6 class="w3-opacity">From $199</h6>
